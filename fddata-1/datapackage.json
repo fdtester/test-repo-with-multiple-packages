@@ -1,5 +1,5 @@
 {
-  "name": "package-1",
+  "name": "package-fddata-1",
   "resources": [
     { "name": "r-table-1",
       "path": "table.xls",

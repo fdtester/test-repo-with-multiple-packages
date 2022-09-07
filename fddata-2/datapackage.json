@@ -1,0 +1,20 @@
+{
+  "name": "package-fddata-2",
+  "resources": [
+    { "name": "r-csv-2",
+      "path": "countries.cs",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "number"
+          },
+          {
+            "name": "name",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "package-1",
+  "resources": [
+    { "name": "r-table-1",
+      "path": "table.xls",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "number"
+          },
+          {
+            "name": "name",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}

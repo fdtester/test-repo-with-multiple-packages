@@ -3,7 +3,7 @@
    "resources":[
       {
          "name":"r-table-1",
-         "path":"table.xls",
+         "path":"data/table.xls",
          "schema":{
             "fields":[
                {

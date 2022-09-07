@@ -1,20 +1,21 @@
 {
-  "name": "package-fddata-1",
-  "resources": [
-    { "name": "r-table-1",
-      "path": "table.xls",
-      "schema": {
-        "fields": [
-          {
-            "name": "id",
-            "type": "number"
-          },
-          {
-            "name": "name",
-            "type": "string"
-          }
-        ]
+   "name":"package-fddata-1",
+   "resources":[
+      {
+         "name":"r-table-1",
+         "path":"table.xls",
+         "schema":{
+            "fields":[
+               {
+                  "name":"id",
+                  "type":"integer"
+               },
+               {
+                  "name":"name",
+                  "type":"string"
+               }
+            ]
+         }
       }
-    }
-  ]
+   ]
 }
